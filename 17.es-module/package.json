@@ -1,0 +1,13 @@
+{
+  "name": "17.es-module",
+  "version": "1.0.0",
+  "description": "\"belajar Ecma Script\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mida",
+  "license": "ISC",
+  "type" : "module"
+
+}
